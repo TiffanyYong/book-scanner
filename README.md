@@ -1,2 +1,2 @@
 # sarcasm-detector
-An AI reddit posts sarcasm detector
+An NLP sarcasm detector for Reddit comments
