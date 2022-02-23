@@ -1,2 +1,2 @@
-# book-scanner
-An AI book scanner
+# sarcasm-detector
+An AI reddit posts sarcasm detector
